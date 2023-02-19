@@ -20,4 +20,4 @@ Describe un listado de referencias de uso de las redes sociales y articulos cien
 17. [Pinterest](https://www.pinterest.com/) - Una plataforma de redes sociales que permite a los educadores y estudiantes descubrir y compartir recursos e ideas visuales.
 18. [Instagram](https://www.instagram.com/) - Una plataforma de redes sociales que permite a los educadores y estudiantes compartir fotos y videos relacionados con la educación.
 19. [YouTube](https://www.youtube.com/) - Una plataforma de videos en línea que ofrece una amplia variedad de recursos educativos y tutoriales.
-20. [TikTok](
+20. [TikTok](https://www.TIKTOK.com/) - Una plataforma de videos cortos en linea con variedad de contenidos.
